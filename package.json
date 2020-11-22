@@ -1,0 +1,26 @@
+{
+  "name": "api_rest",
+  "version": "1.0.0",
+  "description": "Api rest full in nodejs ,  mysql, express ",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://rony20191@github.com/Rony20191/Nodejs.git"
+  },
+  "author": "Rony",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rony20191/Nodejs/issues"
+  },
+  "homepage": "https://github.com/Rony20191/Nodejs#readme",
+  "dependencies": {
+    "consign": "^0.1.6",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.6",
+    "save-dev": "0.0.1-security"
+  }
+}
